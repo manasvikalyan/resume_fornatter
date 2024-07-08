@@ -1,0 +1,6 @@
+streamlit
+openai
+chardet
+PyPDF2
+docx
+json
